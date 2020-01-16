@@ -58,7 +58,7 @@ p {
 a {
   display: inline-block;
   margin: 0;
-  padding: 0.5em 0.75em;
+  padding: .5em .75em;
   background-color: #555;
   border-radius: 4px;
   color: #fff;
@@ -80,10 +80,6 @@ img {
   margin: 0;
   width: 100%;
   display: block;
-}
-
-@media only screen and (min-width: 25em) {
-
 }
 
 @media only screen and (min-width: 38em) {
