@@ -96,11 +96,12 @@ img {
   }
 
   .content {
+    padding-right: 1rem;
     max-width: 50%;
   }
 
   .img-flex {
-    padding: 1rem;
+    margin-left: 1rem;
     align-items: center;
     max-width: 50%;
   }
