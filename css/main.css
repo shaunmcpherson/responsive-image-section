@@ -117,6 +117,10 @@ img {
     padding: 2rem 1rem;
   }
 
+  img {
+    padding: 1rem 0;
+  }
+
 @media only screen and (min-width: 90em) {
 
   html {
