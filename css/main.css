@@ -28,6 +28,7 @@ main {
 }
 
 .img-section {
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   position: relative;
@@ -35,7 +36,7 @@ main {
 }
 
 .content {
-  padding: 1rem;
+  padding: 2rem 0;
 }
 
 h1 {
@@ -62,7 +63,6 @@ p {
   color: #fff;
   text-decoration: none;
   text-align: center;
-  font-size: 1.125rem;
   line-height: 1.85;
 }
 
@@ -75,7 +75,6 @@ img {
 }
 
 .img-flex {
-  padding: 0 1rem 1rem;
   margin: 0;
   width: 100%;
 }
