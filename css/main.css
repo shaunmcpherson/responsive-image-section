@@ -36,7 +36,6 @@ main {
 
 .content {
   padding: 1rem;
-  display: flex;
 }
 
 h1 {
@@ -82,9 +81,7 @@ img {
 }
 
 @media only screen and (min-width: 25em) {
-  .content {
-    flex-wrap: nowrap;
-  }
+
 }
 
 @media only screen and (min-width: 38em) {
