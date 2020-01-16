@@ -56,11 +56,6 @@ p {
 }
 
 a {
-  padding: 0;
-  margin: 0;
-}
-
-.btn {
   display: inline-block;
   margin: 0;
   padding: 0.5em 0.75em;
@@ -72,7 +67,7 @@ a {
   line-height: 1.85;
 }
 
-.btn:hover {
+a:hover {
   background-color: #000;
 }
 
@@ -84,6 +79,7 @@ img {
 .img-flex {
   margin: 0;
   width: 100%;
+  display: flex;
 }
 
 @media only screen and (min-width: 25em) {
